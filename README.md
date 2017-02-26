@@ -6,16 +6,9 @@
 	"auto_indent": true,
 	"auto_match_enabled": true,
 	"caret_style": "smooth",
-	"theme": "Material-Theme-Darker.sublime-theme",
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
-	"material_theme_contrast_mode": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
 	"detect_indentation": true,
 	"find_selected_text": true,
-	"indent_guide_options":
-	[
-		"draw_normal",
-		"draw_active"
-	],
 	"font_face": "monospace",
 	"font_options":
 	[
@@ -28,19 +21,24 @@
 	[
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
 	"indent_subsequent_lines": true,
 	"indent_to_bracket": true,
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
 	"material_theme_compact_panel": true,
+	"material_theme_contrast_mode": true,
 	"scroll_past_end": true,
 	"smart_indent": true,
 	"soda_classic_tabs": true,
 	"soda_folder_icons": true,
 	"tab_size": 4,
-	"theme": "Material-Theme-Darker.sublime-theme",
+	"theme": "Material-Theme-Palenight.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
 	"word_wrap": true,
@@ -53,4 +51,4 @@
 * Emmet
 * Material Theme
 * Package Control
-* PyV8
+* SublimeCodeIntel
