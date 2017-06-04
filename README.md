@@ -9,12 +9,13 @@
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"detect_indentation": true,
 	"find_selected_text": true,
-	"font_face": "monospace",
+	"font_face": "SF Mono", //Menlo, Liberation Mono
 	"font_options":
 	[
 		"subpixel_antialias",
 		"gray_antialias"
 	],
+	"font_size": 10,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -31,6 +32,8 @@
 	"line_padding_top": 3,
 	"material_theme_compact_panel": true,
 	"material_theme_contrast_mode": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
 	"scroll_past_end": true,
 	"smart_indent": true,
 	"soda_classic_tabs": true,
@@ -40,8 +43,7 @@
 	"translate_tabs_to_spaces": true,
 	"use_tab_stops": true,
 	"word_wrap": true,
-	"wrap_width": 80,
-	"trim_trailing_white_space_on_save": true
+	"wrap_width": 80
 }
 ```
 
