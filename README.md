@@ -43,7 +43,9 @@
 	"translate_tabs_to_spaces": true,
 	"use_tab_stops": true,
 	"word_wrap": true,
-	"wrap_width": 80
+	"wrap_width": 80,
+	"trim_trailing_white_space_on_save": true,
+
 }
 ```
 
@@ -53,3 +55,4 @@
 * Material Theme
 * Package Control
 * SublimeCodeIntel
+* PHPDoc
