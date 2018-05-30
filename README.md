@@ -6,10 +6,10 @@
 	"auto_indent": true,
 	"auto_match_enabled": true,
 	"caret_style": "smooth",
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
 	"detect_indentation": true,
 	"find_selected_text": true,
-	"font_face": "SF Mono", //Menlo, Liberation Mono
+	"font_face": "SF Mono",
 	"font_options":
 	[
 		"subpixel_antialias",
@@ -19,6 +19,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"EditorConfig",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -34,18 +35,22 @@
 	"material_theme_contrast_mode": true,
 	"material_theme_tabs_autowidth": true,
 	"material_theme_tabs_separator": true,
+	"rulers":
+	[
+		80,
+		100
+	],
 	"scroll_past_end": true,
 	"smart_indent": true,
 	"soda_classic_tabs": true,
 	"soda_folder_icons": true,
 	"tab_size": 4,
-	"theme": "Material-Theme-Darker.sublime-theme",
+	"theme": "Material-Theme-Palenight.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
 	"word_wrap": true,
-	"wrap_width": 80,
-	"trim_trailing_white_space_on_save": true,
-
+	"wrap_width": 100
 }
 ```
 
@@ -56,3 +61,4 @@
 * Package Control
 * SublimeCodeIntel
 * PHPDoc
+* EditorConfig
