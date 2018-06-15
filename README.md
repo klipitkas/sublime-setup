@@ -3,19 +3,21 @@
 ## User settings
 ```
 {
+	"auto_complete": true,
 	"auto_indent": true,
 	"auto_match_enabled": true,
 	"caret_style": "smooth",
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
 	"detect_indentation": true,
 	"find_selected_text": true,
-	"font_face": "SF Mono",
+	//"font_face": "SF Mono",
+	"font_face": "Roboto Mono",
 	"font_options":
 	[
 		"subpixel_antialias",
 		"gray_antialias"
 	],
-	"font_size": 10,
+	"font_size": 9.25,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -52,6 +54,7 @@
 	"word_wrap": true,
 	"wrap_width": 100
 }
+
 ```
 
 ## Packages
